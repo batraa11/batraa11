@@ -1,11 +1,11 @@
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aarohan+Batra;Computer+Science+CO-OP+Student+@+McMaster;Cybersecurity+%7C+Software+Dev+%7C+Data+Analytics;Seeking+12-month+CO-OP+starting+Fall+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aarohan+Batra;Computer+Science+CO-OP+Student+@+McMaster;Cybersecurity+|+Software+Dev+|+Data+Analytics;Seeking+12-month+CO-OP+starting+Fall+2025" alt="Typing SVG" />
 </p>
 
 <!-- GIF That Sums Me Up Best -->
 <p align="center">
-  <img src="https://media.giphy.com/media/UUZv8FkyVke9OYv16e/giphy.gif" width="400" alt="Excited Dev GIF"/>
+  <img src="https://i.imgflip.com/57nbu4.gif" width="400" alt="Excited Dev GIF"/>
 </p>
 
 # 💫 About Me  
