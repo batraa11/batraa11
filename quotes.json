@@ -1,0 +1,310 @@
+[
+  {
+    "quote":"There is no patch for human stupidity.",
+    "author":"Anonymous"
+  },
+  {
+    "quote":"Why did the hacker break up with the firewall? Too many boundaries.",
+    "author":"Cyber Humor"
+  },
+  {
+    "quote":"Ctrl + Alt + Delete your expectations of privacy.",
+    "author":"Tech Satire"
+  },
+  {
+    "quote":"I use incognito mode, so obviously I'm untraceable.",
+    "author":"Every User Ever"
+  },
+  {
+    "quote":"Password123 is the key to everyone's heart... and files.",
+    "author":"Security 101"
+  },
+  {
+    "quote":"Antivirus? Nah, I just believe in myself.",
+    "author":"Overconfident User"
+  },
+  {
+    "quote":"Hackers do it with protocols.",
+    "author":"Network Nerd"
+  },
+  {
+    "quote":"Who needs a social life when you have patch Tuesday?",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"My zero-days is so secure, even I can't get in.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"Give a man a ransomware and he\u2019s secure for a day. Teach him to audit, and he\u2019ll be secure forever.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Mitm is like coffee: essential and never fully understood.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"Give a man a 2FA and he\u2019s secure for a day. Teach him to audit, and he\u2019ll be secure forever.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"If you love encryption, set it free... then monitor it forever.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"Logs walks into a bar... nobody logs it. Breach.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"Give a man a pentesting and he\u2019s secure for a day. Teach him to audit, and he\u2019ll be secure forever.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"If you love dark web, set it free... then monitor it forever.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"If you love endpoint security, set it free... then monitor it forever.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Give a man a IAM and he\u2019s secure for a day. Teach him to audit, and he\u2019ll be secure forever.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"Endpoint Security is like coffee: essential and never fully understood.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"Who needs a social life when you have compliance?",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"My ransomware is so secure, even I can't get in.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"If you love compliance, set it free... then monitor it forever.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Who needs a social life when you have cybersecurity awareness?",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"My VPN has a VPN \u2014 that's how paranoid I am.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"My SaaS is so secure, even I can't get in.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"My endpoint security is so secure, even I can't get in.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Who needs a social life when you have firewalls?",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"Who needs a social life when you have phishing?",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"My VPN is so secure, even I can't get in.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"My VPN has a VPN \u2014 that's how paranoid I am.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"When in doubt, blame the passwords.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"My VPN has a VPN \u2014 that's how paranoid I am.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"Trust me, I'm a professional \u2014 I once configured phishing without reading the docs.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"Who needs a social life when you have logs?",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"My passwords is so secure, even I can't get in.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"Trust me, I'm a professional \u2014 I once configured ransomware without reading the docs.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"Who needs a social life when you have MITM?",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"If you love SaaS, set it free... then monitor it forever.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"Trust me, I'm a professional \u2014 I once configured dark web without reading the docs.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"My passwords is so secure, even I can't get in.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"Bluetooth is like coffee: essential and never fully understood.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"If you love VPN, set it free... then monitor it forever.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"When in doubt, blame the SQL injection.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"My VPN has a VPN \u2014 that's how paranoid I am.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"My cloud is so secure, even I can't get in.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"Who needs a social life when you have social engineering?",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Endpoint Security is like coffee: essential and never fully understood.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"If you love ransomware, set it free... then monitor it forever.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"Trust me, I'm a professional \u2014 I once configured pentesting without reading the docs.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"Root Access walks into a bar... nobody logs it. Breach.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"Trust me, I'm a professional \u2014 I once configured logs without reading the docs.",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"If you love hackers, set it free... then monitor it forever.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"When in doubt, blame the root access.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"When in doubt, blame the certifications.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"When in doubt, blame the firewalls.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Who needs a social life when you have root access?",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"My VPN has a VPN \u2014 that's how paranoid I am.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"Who needs a social life when you have VPN?",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Trust me, I'm a professional \u2014 I once configured patch Tuesday without reading the docs.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Zero-Days is like coffee: essential and never fully understood.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"My VPN has a VPN \u2014 that's how paranoid I am.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"Who needs a social life when you have patch Tuesday?",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"My compliance is so secure, even I can't get in.",
+    "author":"Cyber Snark"
+  },
+  {
+    "quote":"Endpoint Security is like coffee: essential and never fully understood.",
+    "author":"Hacker Vibes"
+  },
+  {
+    "quote":"When in doubt, blame the encryption.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"When in doubt, blame the VPN.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"Give a man a zero-days and he\u2019s secure for a day. Teach him to audit, and he\u2019ll be secure forever.",
+    "author":"SOC Jester"
+  },
+  {
+    "quote":"My VPN has a VPN \u2014 that's how paranoid I am.",
+    "author":"CLI Philosopher"
+  },
+  {
+    "quote":"Who needs a social life when you have cybersecurity awareness?",
+    "author":"InfoSec Insider"
+  },
+  {
+    "quote":"I don't always patch, but when I do, it's after the breach.",
+    "author":"Cyber Snark"
+  }
+]
