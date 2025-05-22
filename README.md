@@ -120,5 +120,6 @@ I began freelance penetration testing at 15—since then, I’ve secured web app
 ---
 
 ### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/batraa11/batraa11/main/quotes.json&theme=dark&animation=grow_out_in)
+
 
