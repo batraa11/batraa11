@@ -1,11 +1,11 @@
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aarohan+Batra;3rd+Year+Computer+Science+CO-OP+Student+@+McMaster;Cybersecurity+%7C+Software+Dev+%7C+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Aarohan+Batra;3rd+Year+Computer+Science+CO-OP+Student+@+McMaster;Cybersecurity+%7C+Software+Dev+%7C+Data+Analytics" alt="Typing SVG" />
 </p>
 
-<!-- Flashing CO-OP line -->
+<!-- CO-OP line-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Seeking+12-month+CO-OP+starting+Fall+2025" alt="CO-OP Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=🚨+Seeking+12-month+CO-OP+starting+Fall+2025+🚨&repeat=false" alt="CO-OP Typing SVG" />
 </p>
 
 <!-- GIF That Sums Me Up Best -->
