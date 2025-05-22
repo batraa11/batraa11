@@ -119,7 +119,7 @@ I began freelance penetration testing at 15—since then, I’ve secured web app
 
 ---
 
-### ✍️ Random Dev Quote  
+### ✍️ Words of Wisdom to Brighten your Day  
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/batraa11/batraa11/main/quotes.json&theme=dark&animation=grow_out_in)
 
 
