@@ -5,8 +5,9 @@
 
 <!-- CO-OP line-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=🚨+Seeking+12-month+CO-OP+starting+Fall+2025+🚨&repeat=false" alt="CO-OP Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Seeking+12-month+CO-OP+starting+Fall+2025&repeat=false" alt="CO-OP Typing SVG" />
 </p>
+
 
 <!-- GIF That Sums Me Up Best -->
 <p align="center">
